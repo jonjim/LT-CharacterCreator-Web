@@ -9,6 +9,8 @@ Features:
 * OS selections are automatically limited based on Character Skill selections
 * Links for all Character Skills and Occupational Skills to view for full descriptions.
 
+[Download the latest version here](https://github.com/jonjim/LT-CharacterCreator-Web/releases/latest)
+
 ------
 
 This tool is not created by, endorsed by or affiliated with the Lorien Trust.
