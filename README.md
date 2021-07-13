@@ -8,7 +8,7 @@ Features:
 * Calculate New Player OS selections, and calculate point expenditure.
 * OS selections are automatically limited based on Character Skill selections
 * Links for all Character Skills and Occupational Skills to view for full descriptions.
-* Compatability with Rule set v3.1.1
+* Compatability with Rule set v4.04
 
 ------
 
